@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: #fff !important;
+    width: 95%;
+    font-size: 11px;
+    font-weight: bold;
+    
+    
+}
+.toyota{
+    color: #eb0a1e;
+    font-weight: bold;
+    font-size: 23px;
+}
+.gp{
+    gap: 15px;
+}
+
+.section{
+ width: 100%;
+ height: 65vh !important;
+}
+.section img{
+width: 100%;
+height: 100%;
+}
+.buton{
+    border: 1px solid black;
+    padding: 0;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.flec{
+    position: relative;
+}
+.absolute{
+ position: absolute;
+ bottom: 0;
+ color: #fff;
+ padding-left: 10px;
+}
+.absolute p{
+    background-color: red;
+    width: 55px;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.absolute h3{
+    font-size: 19px;
+}
+.toyoda a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 13px;
+    color: #034f6d;
+
+}
+.toyoda a:hover{
+    color: #eb0a1e;
+}
+.flag{
+    
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    margin-top: 10px;
+    
+    
+}
+.flag1{
+    width: 50%;
+    height: 100%;
+    
+}
+.flag1 img{
+    width: 100%;
+    height: 100%;
+}
+.flag2{
+    width: 50%;
+    height: 100%;
+    
+    padding-left: 20px;
+}
+.flag p{
+    font-size: 9px;
+    margin-top: 10px;
+    padding-top: 10px;
+    
+}
+.flag h3{
+    font-size: 22px;
+
+}
+.flag h4{
+    font-size: 14px;
+    padding-top: 10px;
+}
+.more{
+    margin-left: 90%;
+    font-weight: bold;
+}
+.chance{
+    position: relative;
+    margin-top: 15px;
+}
+.chances{
+    background-color: #eb0a1e;
+    width: 100%;
+    height: 90vh;
+}
+.chances img{
+    width: 100%;
+    height: 100%;
+    filter: brightness(0.6);
+}
+.chances1{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+.chances1 p{
+    background-color: #eb0a1e;
+    width: 50px;
+    font-size: 10px;
+}
+.chances1 span{
+    font-size: 11px;
+}
+.chances1 h3{
+    font-size: 22px;
+    font-weight: bold;
+}
+.chance2{
+    position: relative;
+}
+.chan{
+    background: red;
+    width: 100%;
+    height: 90vh;
+}
+.chan img{
+    width: 100%;
+    height: 100%;
+    filter: brightness(0.7);
+}
+.cha{
+    position: absolute;
+    bottom: 0;
+    margin-left: 20px;
+    color: #fff;
+    margin-bottom: 15px;
+   
+}
+.cha p{
+    background-color: #eb0a1e;
+    width: 50px;
+    font-size: 10px;
+}
+.cha span{
+    font-size: 11px;
+}
+.cha h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+
